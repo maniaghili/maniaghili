@@ -6,5 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#My Activity
+<h1>My Activity</h1>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=maniaghili&show_icons=true&theme=radical">
