@@ -19,6 +19,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<h1>My Projects</h1>
+<h1>My Projects </h1>
 <br>
 https://maniaghili.github.io/restaurant-project/
