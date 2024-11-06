@@ -3,7 +3,7 @@ src="https://camo.githubusercontent.com/a05d160bcd471e2e2ebfe616d52f2c961c8c6f87
 
 - 👋 Hi, I’m MANI AGHILI 
 - 👀 I’m interested in Language 0 and 1
-- 🧐 I’m currently learning REACT
+- 🧐 I’m currently learning Next js
 - 💞️ I’m looking for cooperation with companies and...
 
 <h1>My Activity</h1>
