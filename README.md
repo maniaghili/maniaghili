@@ -22,11 +22,8 @@ src="https://camo.githubusercontent.com/a05d160bcd471e2e2ebfe616d52f2c961c8c6f87
 
 <h1>My Projects </h1>
 <br>
-
-https://maniaghili.github.io/Car-spare-parts-sales-sitee/
-<br>
 https://maniaghili.github.io/Fastkart/
 <br>
-https://maniaghili.github.io/divarProject/index.html
+https://maniaghili.github.io/divarProject/index.html (Not Responsive!)
 
   
