@@ -7,6 +7,7 @@ src="https://camo.githubusercontent.com/a05d160bcd471e2e2ebfe616d52f2c961c8c6f87
 - 💞️ I’m looking for cooperation with companies and...
 
 <h1>My Activity</h1>
+https://kamayadak.com
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=maniaghili&show_icons=true&theme=radical"><br>
 
